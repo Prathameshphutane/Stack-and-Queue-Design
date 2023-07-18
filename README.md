@@ -1,7 +1,7 @@
-# Stack-and-Queue-Design
-Designing stack and queue in Java
 
-# Problem Statement:
+# Designing stack and queue in Java
+
+## Problem Statement:
 
 Write an interface for a collection with the following operations:
 
